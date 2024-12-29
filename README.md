@@ -17,7 +17,7 @@ Implemented intelligent algorithms to mimic human-like decision-making.
 For text analysis, language models, and text classification.
 
 ### **Data Science**
-![Data Science](https://thedatascientist.com/wp-content/uploads/2023/05/what-is-data-science.svg)  
+![Data Science](https://thedatascientist.com/wp-content/uploads/2023/05/what-is-data-science.jpg)  
 Analyzed and visualized data to derive insights and make informed decisions.
 
 ### **Python**
