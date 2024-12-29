@@ -13,7 +13,7 @@ Used for building models to make predictions, classify data, and uncover pattern
 Implemented intelligent algorithms to mimic human-like decision-making.
 
 ### **Natural Language Processing (NLP)**
-![NLP](https://upload.wikimedia.org/wikipedia/commons/2/2d/Natural_language_processing.svg)  
+![NLP](https://f5b623aa.delivery.rocketcdn.me/wp-content/uploads/2022/10/How-NLP-Works-760px.jpg)  
 For text analysis, language models, and text classification.
 
 ### **Data Science**
@@ -21,7 +21,7 @@ For text analysis, language models, and text classification.
 Analyzed and visualized data to derive insights and make informed decisions.
 
 ### **Python**
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+![Python](https://jaro-website.s3.ap-south-1.amazonaws.com/2024/10/Python-Features.webp)  
 The primary programming language used for building all the projects in this repository.
 
 ### **Libraries and Frameworks**
