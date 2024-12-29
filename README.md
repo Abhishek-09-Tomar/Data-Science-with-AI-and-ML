@@ -5,7 +5,7 @@ Welcome to my **Data Science Projects** repository! This repository contains a c
 ## Technologies and Tools Used
 
 ### **Machine Learning**
-![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ML_Logo.svg/600px-ML_Logo.svg.png)  
+![Machine Learning](https://static.vecteezy.com/system/resources/thumbnails/017/094/580/small/machine-learning-icon-illustration-machine-learning-solving-robot-big-data-artificial-intelligence-internet-of-things-infographic-template-concept-banner-icon-set-icons-vector.jpg)  
 Used for building models to make predictions, classify data, and uncover patterns.
 
 ### **Artificial Intelligence (AI)**
