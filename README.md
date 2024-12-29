@@ -40,16 +40,6 @@ A machine learning model that predicts property prices based on various features
 ### **2. Spam Email Detection**
 A machine learning project that classifies emails as spam or legitimate based on email content and features.
 
-## Getting Started
-
-To get started with any of the projects in this repository, simply clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/Abhishek-09-Tomar/AI-ML-Data-Science-Projects.git
-cd AI-ML-Data-Science-Projects
-pip install -r requirements.txt
-
-
 
 ### Explanation of Sections:
 1. **Technologies Used**: Includes the logos and names of the tools and languages you use, such as Machine Learning, Python, AI, NLP, etc.
@@ -64,3 +54,17 @@ To use images, make sure you either:
 - Use external image URLs, as shown in the example.
 
 Let me know if you'd like further customization!
+
+
+## Getting Started
+
+To get started with any of the projects in this repository, simply clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/Abhishek-09-Tomar/AI-ML-Data-Science-Projects.git
+cd AI-ML-Data-Science-Projects
+pip install -r requirements.txt
+
+
+
+
