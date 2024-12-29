@@ -9,7 +9,7 @@ Welcome to my **Data Science Projects** repository! This repository contains a c
 Used for building models to make predictions, classify data, and uncover patterns.
 
 ### **Artificial Intelligence (AI)**
-![AI](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Artificial_Intelligence_%28AI%29_logo.svg/512px-Artificial_Intelligence_%28AI%29_logo.svg.png)  
+![AI](https://live-production.wcms.abc-cdn.net.au/909b5e4dab59de2ee3cb69f14ba05471?impolicy=wcms_crop_resize&cropH=1237&cropW=2198&xPos=416&yPos=0&width=862&height=485)  
 Implemented intelligent algorithms to mimic human-like decision-making.
 
 ### **Natural Language Processing (NLP)**
