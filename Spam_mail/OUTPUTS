@@ -1,0 +1,13 @@
+Model Outputs :
+
+1 - Naive Bayes Classifier:
+
+Accuracy on training data: 0.9876543209876543
+
+2 - Support Vector Machine (SVM):
+
+Accuracy on training data: 0.9958847736625515
+
+3 - Random Forest Classifier:
+
+Accuracy on training data: 0.9969135802469136
