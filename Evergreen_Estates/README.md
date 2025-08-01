@@ -18,6 +18,7 @@ This project predicts house prices using machine learning based on features like
 
 ## 📁 Project Structure
 
+# Note : i'm not building UI for that project may be build in future if it is possible. - By Abhishek Tomar.
 ```
 Data-Science-with-AI-and-ML/
 │
